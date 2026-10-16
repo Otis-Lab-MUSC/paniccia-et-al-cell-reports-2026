@@ -1,0 +1,1 @@
+Codes in this repository were used to analyze the 2P astrocytic calcium imaging and mouse behavioral data published in Paniccia et al (Cell Reports). Anthropic and Open AI models were used in code preparation.
