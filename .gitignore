@@ -1,0 +1,24 @@
+# Data and intermediates: not included in this repository (see data/README.md)
+data/*
+!data/README.md
+*.mat
+*.npy
+*.pkl
+*.pickle
+
+# Generated outputs, recreated by running the notebooks
+Results/
+Output CSVs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
