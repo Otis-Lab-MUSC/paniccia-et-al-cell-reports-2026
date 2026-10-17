@@ -1,0 +1,18 @@
+# Third-party packages imported by the notebooks in notebooks/.
+# Versions are intentionally unpinned; pin them if you need an exact environment.
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+joblib
+tqdm
+shapely
+roifile
+tensortools
+tensorflow
+torch
+ipython
+jupyter
