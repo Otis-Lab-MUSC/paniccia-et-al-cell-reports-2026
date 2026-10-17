@@ -1,6 +1,6 @@
 # Astrocytic Calcium Imaging and Behavior — Analysis Code
 
-*This repository contains the analysis code for the Cell Reports (2026) manuscript by Paniccia et al. on two-photon astrocytic calcium imaging and behavior during Pavlovian sucrose conditioning. The DOI will be added once it is available.*
+*This repository contains the analysis code for the Cell Reports (2026) manuscript by Paniccia et al. on two-photon astrocytic calcium imaging and behavior during Pavlovian sucrose conditioning. The code is archived on Zenodo: [10.5281/zenodo.23437382](https://doi.org/10.5281/zenodo.23437382).*
 
 ## Overview
 
@@ -50,7 +50,7 @@ Python 3 with the packages in `requirements.txt`: numpy, pandas, scipy, scikit-l
 
 If using this code, please cite:
 
-> Paniccia JE et al. *Cell Reports* (2026). DOI to be added.
+> Paniccia JE et al. Analysis code for: *Cell Reports* (2026). Zenodo. https://doi.org/10.5281/zenodo.23437382
 
 ---
 

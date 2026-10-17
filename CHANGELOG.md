@@ -38,7 +38,7 @@ Not changed: the `/path/to/averaged_data.pkl` strings in notebook 01 are placeho
 
 ## Added
 
-- `README.md`: rewritten in the format of the other publication repositories (overview, notebook table, structure, data, packages, what's not included, citation). The original sentence about Anthropic and OpenAI models is kept. The DOI is a placeholder and will be added later.
+- `README.md`: rewritten in the format of the other publication repositories (overview, notebook table, structure, data, packages, what's not included, citation). The original sentence about Anthropic and OpenAI models is kept. The intro and Citation link to the Zenodo archive DOI, `10.5281/zenodo.23437382`.
 - `data/README.md`: the folder layout each notebook expects, read from the notebooks' file-handling code. Please check it against your real folders.
 - `requirements.txt`: third-party packages imported by the notebooks. Versions are unpinned.
 - `.gitignore`: data files, generated outputs, checkpoints and OS files.
@@ -53,4 +53,4 @@ Not changed: the `/path/to/averaged_data.pkl` strings in notebook 01 are placeho
 
 - The README title and overview are my wording; please confirm them or edit them.
 - "CBX" is left abbreviated everywhere because its meaning is not stated in the repository.
-- The author list, full title and DOI for the Citation section are pending.
+- The Citation uses the Zenodo DOI for this repository. The author list and the Cell Reports article title and DOI are still pending.
